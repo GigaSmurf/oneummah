@@ -201,6 +201,10 @@
     .nav-link {
       justify-content: center;
     }
+
+    .nav-item{
+      width: 20vw;
+    }
   
     main {
       margin: 0;
